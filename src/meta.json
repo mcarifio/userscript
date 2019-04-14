@@ -1,7 +1,7 @@
 {
   "$schema": "file:../meta.schema.json",
 
-  "name": "user.js",
+  "name": "userscript",
   "namespace": "https://mike.carif.io/",
   "description": "personal scripts",
   "version": "1.0.0",
